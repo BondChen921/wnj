@@ -1,0 +1,29 @@
+{
+  "offerings": [
+      {
+        id: '1',
+        coverMedias: [{
+          id: i.toString(),
+          type: Type.MEDIA_TYPE_IMAGE,
+          url: 'http://placehold.it/200x200?text=' + 英语,
+          name: i.toString()
+        }],
+        name: '英语中级班',
+        price:0
+      },
+	  {
+        id: '2',
+        coverMedias: [{
+          id: i.toString(),
+          type: Type.MEDIA_TYPE_IMAGE,
+          url: 'http://placehold.it/200x200?text=' + 数学,
+          name: i.toString()
+        }],
+        name: '数学中级班',
+        price:0
+      }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
