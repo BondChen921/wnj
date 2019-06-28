@@ -3,8 +3,8 @@
       {
         id: '1',
         coverMedias: [{
-          id: i.toString(),
-          type: Type.MEDIA_TYPE_IMAGE,
+          id: "1",
+          type: "2730",
           url: 'http://placehold.it/200x200?text=' + 英语,
           name: i.toString()
         }],
@@ -14,8 +14,8 @@
 	  {
         id: '2',
         coverMedias: [{
-          id: i.toString(),
-          type: Type.MEDIA_TYPE_IMAGE,
+          id: "2"
+          type: "2730",
           url: 'http://placehold.it/200x200?text=' + 数学,
           name: i.toString()
         }],
