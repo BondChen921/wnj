@@ -1,25 +1,25 @@
 {
   "offerings": [
       {
-        id: '1',
+        id: "1",
         coverMedias: [{
           id: "1",
           type: "2730",
-          url: 'http://placehold.it/200x200?text=' + 英语,
-          name: i.toString()
+          url: "http://placehold.it/200x200?text=英语",
+          name: ""
         }],
-        name: '英语中级班',
+        name: "英语中级班",
         price:0
       },
 	  {
-        id: '2',
+        id: "2",
         coverMedias: [{
           id: "2"
           type: "2730",
-          url: 'http://placehold.it/200x200?text=' + 数学,
-          name: i.toString()
+          url: "http://placehold.it/200x200?text=数学",
+          name: ""
         }],
-        name: '数学中级班',
+        name: "数学中级班",
         price:0
       }
   ],
