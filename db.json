@@ -21,6 +21,61 @@
         }],
         "name": "数学中级班",
         "price": 0
+      },
+	  {
+        "id": "3",
+        "coverMedias": [{
+          "id": "2",
+          "type": "2730",
+          "url": "http://placehold.it/200x200?text=数学",
+          "name": ""
+        }],
+        "name": "暑假画画课",
+        "price": 0
+      },
+	  {
+        "id": "4",
+        "coverMedias": [{
+          "id": "2",
+          "type": "2730",
+          "url": "http://placehold.it/200x200?text=数学",
+          "name": ""
+        }],
+        "name": "统计021班",
+        "price": 0
+      },
+	  {
+        "id": "5",
+        "coverMedias": [{
+          "id": "2",
+          "type": "2730",
+          "url": "http://placehold.it/200x200?text=数学",
+          "name": ""
+        }],
+        "name": "2020年上学期近代史选修课",
+        "price": 0
+      },
+	  {
+        "id": "6",
+        "coverMedias": [{
+          "id": "2",
+          "type": "2730",
+          "url": "http://placehold.it/200x200?text=数学",
+          "name": ""
+        }],
+        "name": "Docker and CI/CD",
+        "price": 0
+      },
+	  {
+        "id": "7",
+        "coverMedias": [{
+          "id": "2",
+          "type": "2730",
+          "url": "http://placehold.it/200x200?text=数学",
+          "name": ""
+        }],
+        "name": "英语 1 VS 1",
+        "price": 0
       }
   ],
   "profile": {
