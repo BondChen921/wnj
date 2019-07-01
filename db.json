@@ -5,7 +5,7 @@
         "coverMedias": [{
           "id": "1",
           "type": "2730",
-          "url": "http://placehold.it/200x200?text=英语",
+          "url": "http://placehold.it/80/0000FF/808080?text=英语",
           "name": ""
         }],
         "name": "英语中级班",
@@ -16,7 +16,7 @@
         "coverMedias": [{
           "id": "2",
           "type": "2730",
-          "url": "http://placehold.it/200x200?text=数学",
+          "url": "http://placehold.it/80/FFFFFF/000000?text=ABC",
           "name": ""
         }],
         "name": "数学中级班",
@@ -27,7 +27,7 @@
         "coverMedias": [{
           "id": "2",
           "type": "2730",
-          "url": "http://placehold.it/200x200?text=数学",
+          "url": "http://placehold.it/80/000000/FFFFFF?text=EFX",
           "name": ""
         }],
         "name": "暑假画画课",
@@ -38,7 +38,7 @@
         "coverMedias": [{
           "id": "2",
           "type": "2730",
-          "url": "http://placehold.it/200x200?text=数学",
+          "url": "http://placehold.it/80/FF0000/808080?text=ShuXue",
           "name": ""
         }],
         "name": "统计021班",
@@ -49,7 +49,7 @@
         "coverMedias": [{
           "id": "2",
           "type": "2730",
-          "url": "http://placehold.it/200x200?text=数学",
+          "url": "http://placehold.it/80/0000FF/FF0000?text=Haha",
           "name": ""
         }],
         "name": "2020年上学期近代史选修课",
@@ -60,7 +60,7 @@
         "coverMedias": [{
           "id": "2",
           "type": "2730",
-          "url": "http://placehold.it/200x200?text=数学",
+          "url": "http://placehold.it/80/008000/FFFFFF?text=Docker",
           "name": ""
         }],
         "name": "Docker and CI/CD",
@@ -71,7 +71,7 @@
         "coverMedias": [{
           "id": "2",
           "type": "2730",
-          "url": "http://placehold.it/200x200?text=数学",
+          "url": "http://placehold.it/80/FFFFFF/008000?text=English",
           "name": ""
         }],
         "name": "英语 1 VS 1",
@@ -82,7 +82,7 @@
       "coverMedias": [{
         "id": "2",
         "type": "2730",
-        "url": "http://placehold.it/200x200?text=数学",
+        "url": "http://placehold.it/80/0000FF/808080?text=Camp",
         "name": ""
       }],
       "name": "西北夏令营",
@@ -93,7 +93,7 @@
       "coverMedias": [{
         "id": "2",
         "type": "2730",
-        "url": "http://placehold.it/200x200?text=数学",
+        "url": "http://placehold.it/80/FFFFFF/808080?text=Service",
         "name": ""
       }],
       "name": "美国留学咨询",
@@ -104,7 +104,7 @@
       "coverMedias": [{
         "id": "2",
         "type": "2730",
-        "url": "http://placehold.it/200x200?text=数学",
+        "url": "http://placehold.it/80/008000/FFFFFF?text=High+School",
         "name": ""
       }],
       "name": "高三英语家教",
@@ -115,7 +115,7 @@
       "coverMedias": [{
         "id": "2",
         "type": "2730",
-        "url": "http://placehold.it/200x200?text=数学",
+        "url": "http://placehold.it/80/FF0000/000000?text=Trial",
         "name": ""
       }],
       "name": "创意美术1节试听课",
@@ -126,7 +126,7 @@
       "coverMedias": [{
         "id": "2",
         "type": "2730",
-        "url": "http://placehold.it/200x200?text=数学",
+        "url": "http://placehold.it/80/000000/808080?text=Read",
         "name": ""
       }],
       "name": "基督山伯爵 - 英文朗读",
@@ -137,7 +137,7 @@
       "coverMedias": [{
         "id": "2",
         "type": "2730",
-        "url": "http://placehold.it/200x200?text=数学",
+        "url": "http://placehold.it/80/FFFFFF/000000?text=Game",
         "name": ""
       }],
       "name": "小学二年级识字游戏",
