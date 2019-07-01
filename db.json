@@ -142,6 +142,28 @@
       }],
       "name": "小学二年级识字游戏",
       "price": 0
+    },
+    {
+      "id": "14",
+      "coverMedias": [{
+        "id": "2",
+        "type": "2730",
+        "url": "http://placehold.it/80/808080/FFFFFF?text=BS",
+        "name": ""
+      }],
+      "name": "书架",
+      "price": 0
+    },
+    {
+      "id": "14",
+      "coverMedias": [{
+        "id": "2",
+        "type": "2730",
+        "url": "http://placehold.it/80/808080/FFFFFF?text=BS",
+        "name": ""
+      }],
+      "name": "书架",
+      "price": 0
     }
   ],
   "profile": {
