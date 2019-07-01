@@ -8,6 +8,7 @@
           "url": "http://placehold.it/80/0000FF/808080?text=英语",
           "name": ""
         }],
+        "type": "2140",
         "name": "英语中级班",
         "price":0
       },
@@ -19,6 +20,7 @@
           "url": "http://placehold.it/80/FFFFFF/000000?text=ABC",
           "name": ""
         }],
+        "type": "2140",
         "name": "数学中级班",
         "price": 0
       },
@@ -30,6 +32,7 @@
           "url": "http://placehold.it/80/000000/FFFFFF?text=EFX",
           "name": ""
         }],
+        "type": "2140",
         "name": "暑假画画课",
         "price": 0
       },
@@ -41,6 +44,7 @@
           "url": "http://placehold.it/80/FF0000/808080?text=ShuXue",
           "name": ""
         }],
+        "type": "2140",
         "name": "统计021班",
         "price": 0
       },
@@ -52,6 +56,7 @@
           "url": "http://placehold.it/80/0000FF/FF0000?text=Haha",
           "name": ""
         }],
+        "type": "2140",
         "name": "2020年上学期近代史选修课",
         "price": 0
       },
@@ -63,6 +68,7 @@
           "url": "http://placehold.it/80/008000/FFFFFF?text=Docker",
           "name": ""
         }],
+        "type": "2145",
         "name": "Docker and CI/CD",
         "price": 0
       },
@@ -74,6 +80,7 @@
           "url": "http://placehold.it/80/FFFFFF/008000?text=English",
           "name": ""
         }],
+        "type": "2145",
         "name": "英语 1 VS 1",
         "price": 0
       },
@@ -85,6 +92,7 @@
         "url": "http://placehold.it/80/0000FF/808080?text=Camp",
         "name": ""
       }],
+      "type": "2140",
       "name": "西北夏令营",
       "price": 0
     },
@@ -96,6 +104,7 @@
         "url": "http://placehold.it/80/FFFFFF/808080?text=Service",
         "name": ""
       }],
+      "type": "2150",
       "name": "美国留学咨询",
       "price": 0
     },
@@ -107,6 +116,7 @@
         "url": "http://placehold.it/80/008000/FFFFFF?text=High+School",
         "name": ""
       }],
+      "type": "2145",
       "name": "高三英语家教",
       "price": 0
     },
@@ -118,6 +128,7 @@
         "url": "http://placehold.it/80/FF0000/000000?text=Trial",
         "name": ""
       }],
+      "type": "2145",
       "name": "创意美术1节试听课",
       "price": 0
     },
@@ -129,6 +140,7 @@
         "url": "http://placehold.it/80/000000/808080?text=Read",
         "name": ""
       }],
+      "type": "2140",
       "name": "基督山伯爵 - 英文朗读",
       "price": 0
     },
@@ -140,6 +152,7 @@
         "url": "http://placehold.it/80/FFFFFF/000000?text=Game",
         "name": ""
       }],
+      "type": "2140",
       "name": "小学二年级识字游戏",
       "price": 0
     },
@@ -151,17 +164,7 @@
         "url": "http://placehold.it/80/808080/FFFFFF?text=BS",
         "name": ""
       }],
-      "name": "书架",
-      "price": 0
-    },
-    {
-      "id": "14",
-      "coverMedias": [{
-        "id": "2",
-        "type": "2730",
-        "url": "http://placehold.it/80/808080/FFFFFF?text=BS",
-        "name": ""
-      }],
+      "type": "2140",
       "name": "书架",
       "price": 0
     }
