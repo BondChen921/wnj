@@ -120,6 +120,28 @@
       }],
       "name": "创意美术1节试听课",
       "price": 0
+    },
+    {
+      "id": "12",
+      "coverMedias": [{
+        "id": "2",
+        "type": "2730",
+        "url": "http://placehold.it/200x200?text=数学",
+        "name": ""
+      }],
+      "name": "基督山伯爵 - 英文朗读",
+      "price": 0
+    },
+    {
+      "id": "13",
+      "coverMedias": [{
+        "id": "2",
+        "type": "2730",
+        "url": "http://placehold.it/200x200?text=数学",
+        "name": ""
+      }],
+      "name": "小学二年级识字游戏",
+      "price": 0
     }
   ],
   "profile": {
