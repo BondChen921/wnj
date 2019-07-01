@@ -76,7 +76,40 @@
         }],
         "name": "英语 1 VS 1",
         "price": 0
-      }
+      },
+    {
+      "id": "8",
+      "coverMedias": [{
+        "id": "2",
+        "type": "2730",
+        "url": "http://placehold.it/200x200?text=数学",
+        "name": ""
+      }],
+      "name": "西北夏令营",
+      "price": 0
+    },
+    {
+      "id": "9",
+      "coverMedias": [{
+        "id": "2",
+        "type": "2730",
+        "url": "http://placehold.it/200x200?text=数学",
+        "name": ""
+      }],
+      "name": "美国留学咨询",
+      "price": 0
+    },
+    {
+      "id": "10",
+      "coverMedias": [{
+        "id": "2",
+        "type": "2730",
+        "url": "http://placehold.it/200x200?text=数学",
+        "name": ""
+      }],
+      "name": "高三英语家教",
+      "price": 0
+    }
   ],
   "profile": {
     "name": "typicode"
