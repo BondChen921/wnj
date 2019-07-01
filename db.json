@@ -109,6 +109,17 @@
       }],
       "name": "高三英语家教",
       "price": 0
+    },
+    {
+      "id": "11",
+      "coverMedias": [{
+        "id": "2",
+        "type": "2730",
+        "url": "http://placehold.it/200x200?text=数学",
+        "name": ""
+      }],
+      "name": "创意美术1节试听课",
+      "price": 0
     }
   ],
   "profile": {
