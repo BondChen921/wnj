@@ -135,6 +135,18 @@
       "name": "书架",
       "avatarUri":  "http://lorempixel.com/140/140/city/2",
       "type": "1"
+    },
+    {
+      "id": "23.0",
+      "name": "服务号助手",
+      "avatarUri":  "http://lorempixel.com/140/140/city/3",
+      "type": "1"
+    },
+    {
+      "id": "24.0",
+      "name": "小象平台",
+      "avatarUri":  "http://lorempixel.com/140/140/nature/13",
+      "type": "1"
     }
   ],
   "accountMessageSummaries": [
@@ -268,6 +280,18 @@
       "accountId": "22.0",
       "numberOfNewMsg": 10,
       "lastMsg": "阅读结束 - 这周阅读了2个小时",
+      "utcLastMsgCreated": 1551020519000
+    },
+    {
+      "accountId": "23.0",
+      "numberOfNewMsg": 10,
+      "lastMsg": "一个新问题",
+      "utcLastMsgCreated": 1551020519000
+    },
+    {
+      "accountId": "24.0",
+      "numberOfNewMsg": 10,
+      "lastMsg": "开会了",
       "utcLastMsgCreated": 1551020519000
     }
   ],
