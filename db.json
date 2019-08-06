@@ -147,6 +147,12 @@
       "name": "小象平台",
       "avatarUri":  "http://lorempixel.com/140/140/nature/13",
       "type": "1"
+    },
+    {
+      "id": "25.0",
+      "name": "2019新交规科目一题库",
+      "avatarUri":  "http://lorempixel.com/140/140/nature/10",
+      "type": "12"
     }
   ],
   "accountMessageSummaries": [
@@ -292,6 +298,12 @@
       "accountId": "24.0",
       "numberOfNewMsg": 10,
       "lastMsg": "开会了",
+      "utcLastMsgCreated": 1551020519000
+    },
+    {
+      "accountId": "25.0",
+      "numberOfNewMsg": 9,
+      "lastMsg": "题库更新了，增加了300个题目",
       "utcLastMsgCreated": 1551020519000
     }
   ],
