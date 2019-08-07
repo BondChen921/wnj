@@ -143,10 +143,16 @@
       "type": "18"
     },
     {
-      "id": "3220",
-      "name": "小象平台",
+      "id": "23",
+      "name": "上海精锐教育团队",
       "avatarUri":  "http://lorempixel.com/140/140/nature/13",
-      "type": "18"
+      "type": "17"
+    },
+    {
+      "id": "24",
+      "name": "北京学而思",
+      "avatarUri":  "http://lorempixel.com/140/140/nature/13",
+      "type": "17"
     },
     {
       "id": "25.0",
@@ -295,9 +301,15 @@
       "utcLastMsgCreated": 1551020519000
     },
     {
-      "accountId": "3220",
-      "numberOfNewMsg": 10,
+      "accountId": "23",
+      "numberOfNewMsg": 29,
       "lastMsg": "开会了",
+      "utcLastMsgCreated": 1551020519000
+    },
+    {
+      "accountId": "24",
+      "numberOfNewMsg": 100,
+      "lastMsg": "审批报告",
       "utcLastMsgCreated": 1551020519000
     },
     {
