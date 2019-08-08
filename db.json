@@ -137,12 +137,6 @@
       "type": "18"
     },
     {
-      "id": "3210",
-      "name": "服务号助手",
-      "avatarUri":  "http://lorempixel.com/140/140/technics/19",
-      "type": "18"
-    },
-    {
       "id": "23",
       "name": "上海精锐教育团队",
       "avatarUri":  "http://lorempixel.com/140/140/nature/13",
@@ -292,12 +286,6 @@
       "accountId": "3230",
       "numberOfNewMsg": 10,
       "lastMsg": "阅读结束 - 这周阅读了2个小时",
-      "utcLastMsgCreated": 1551020519000
-    },
-    {
-      "accountId": "3210",
-      "numberOfNewMsg": 10,
-      "lastMsg": "一个新问题",
       "utcLastMsgCreated": 1551020519000
     },
     {
