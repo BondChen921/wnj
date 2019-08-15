@@ -307,7 +307,76 @@
       "utcLastMsgCreated": 1551020519000
     }
   ],
+  "wnjIcons":[
+    {
+      "id": "1",
+      "name": "school",
+      "uri": "",
+      "type": "font_awesome"
+    }
+  ],
+  "xxApps":[
+    {
+      "id": "1",
+      "name": "考勤",
+      "description": "考勤 应用",
+      "wnjIconId": "1",
+      "routeName": "",
+      "type": "3410"
+    }
+  ],
+  "xxAppNotificationSummaries":[
+    {
+      "xxAppId": "1",
+      "xxAppType": "3410",
+      "numberOfNewMsg": "2",
+      "lastMsg": "8月份考勤报告出来了",
+      "utcLastMsgCreated": 129827389434
+    },
+    {
+      "xxAppId": "3500",
+      "xxAppType": "3400",
+      "numberOfNewMsg": "2",
+      "lastMsg": "新服务号神奇通过",
+      "utcLastMsgCreated": 129827389434
+    },
+    {
+      "xxAppId": "3510",
+      "xxAppType": "3400",
+      "numberOfNewMsg": "2",
+      "lastMsg": "9月份订单出来了",
+      "utcLastMsgCreated": 129827389434
+    },
+    {
+      "xxAppId": "3520",
+      "xxAppType": "3400",
+      "numberOfNewMsg": "2",
+      "lastMsg": "课程统计出来了",
+      "utcLastMsgCreated": 129827389434
+    },
+    {
+      "xxAppId": "3530",
+      "xxAppType": "3400",
+      "numberOfNewMsg": "2",
+      "lastMsg": "员工统计报表已经好了",
+      "utcLastMsgCreated": 129827389434
+    },
+    {
+      "xxAppId": "3540",
+      "xxAppType": "3400",
+      "numberOfNewMsg": "2",
+      "lastMsg": "用户购买记录列表",
+      "utcLastMsgCreated": 129827389434
+    },
+    {
+      "xxAppId": "3550",
+      "xxAppType": "3400",
+      "numberOfNewMsg": "2",
+      "lastMsg": "权限已经设好了。",
+      "utcLastMsgCreated": 129827389434
+    }
+  ],
   "profile": {
-    "name": "typicode"
+    "name": "type-code"
   }
 }
