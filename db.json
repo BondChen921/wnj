@@ -153,6 +153,12 @@
       "name": "2019新交规科目一题库",
       "avatarUri":  "http://lorempixel.com/140/140/nature/10",
       "type": "12"
+    },
+    {
+      "id": "26.0",
+      "name": "MBA - 交大光华",
+      "avatarUri":  "http://lorempixel.com/140/140/nature/12",
+      "type": "12"
     }
   ],
   "accountMessageSummaries": [
