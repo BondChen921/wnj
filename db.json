@@ -159,6 +159,12 @@
       "name": "MBA - 交大光华",
       "avatarUri":  "http://lorempixel.com/140/140/nature/12",
       "type": "12"
+    },
+    {
+      "id": "27",
+      "name": "WNJ团队",
+      "type": "1",
+      "avatarUri": "http://lorempixel.com/140/140/technics/12"
     }
   ],
   "accountMessageSummaries": [
