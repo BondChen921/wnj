@@ -181,12 +181,6 @@
       "utcLastMsgCreated": 1562810516000
     },
     {
-      "accountId": "3.0",
-      "numberOfNewMsg": 10,
-      "lastMsg": "有新课程了",
-      "utcLastMsgCreated": 1561820516000
-    },
-    {
       "accountId": "4.0",
       "numberOfNewMsg": 10,
       "lastMsg": "新题库发不了，有空练习一下, 如发现有什么问题，可以随时发消息告知我们，谢谢！！！",
@@ -197,12 +191,6 @@
       "numberOfNewMsg": 10,
       "lastMsg": "新学期上学通知",
       "utcLastMsgCreated": 1562620516000
-    },
-    {
-      "accountId": "6.0",
-      "numberOfNewMsg": 10,
-      "lastMsg": "今天的绘画主题是猫",
-      "utcLastMsgCreated": 1561820516000
     },
     {
       "accountId": "7.0",
